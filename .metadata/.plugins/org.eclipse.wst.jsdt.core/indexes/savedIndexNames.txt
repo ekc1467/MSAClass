@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\BIT\eclipse-workspace-ReactSpring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2535115223.index
+1553286033.index
+4126905103.index
+3581812587.index
+49669043.index
+2852746039.index
+2925092818.index
